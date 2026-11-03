@@ -1,5 +1,8 @@
-# REST-API-Postman-practice
+# REST-API-Postman-execution
 Executed full REST API testing in Postman across GET, POST, PUT, PATCH, and DELETE using JSONPlaceholder, HTTPBin, and ReqRes. Resolved version deprecation issues with REST Countries v5 and fixed JSON syntax errors. Exported collection v2.1 with a custom README.md in VS Code, authenticated Git, and pushed the suite live to GitHub.
+
+![Postman Workspace Screenshot](API-CRUD-Collection-screenshot.png)
+
 **What is Covered**
 
 * **Full CRUD Lifecycle Execution:** I constructed and executed requests across all primary HTTP methods—`GET` (read/fetch), `POST` (create), `PUT` (full replace), `PATCH` (partial update), and `DELETE` (remove)—using testing endpoints from JSONPlaceholder, HTTPBin, ReqRes, Restful-API Dev, and PokeAPI.
